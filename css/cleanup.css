@@ -27,3 +27,7 @@ body div#wall div.parent div #tag-6{
 body div#wall .parent .slick{
     display: none;
 }
+
+body div#wall .parent{
+    display: none;
+}
